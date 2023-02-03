@@ -1,0 +1,58 @@
+https://www.alura.com.br - online: true
+https://random-status-code.herokuapp.com - online: false
+https://www.caelum.com.br - online: true
+https://www.casadocodigo.com.br - online: true
+https://www.alura.com.br - online: true
+https://random-status-code.herokuapp.com - online: false
+https://www.caelum.com.br - online: true
+https://www.casadocodigo.com.br - online: true
+https://www.alura.com.br - online: true
+https://random-status-code.herokuapp.com - online: false
+https://www.caelum.com.br - online: true
+https://www.casadocodigo.com.br - online: true
+https://medium.com/gommunity/3-goschool-declara%C3%A7%C3%B5es-e-tipos-6952dcc9fc0f - online: true
+https://www.alura.com.br - online: true
+https://random-status-code.herokuapp.com - online: false
+https://www.caelum.com.br - online: true
+https://www.casadocodigo.com.br - online: true
+https://medium.com/gommunity/3-goschool-declara%C3%A7%C3%B5es-e-tipos-6952dcc9fc0f - online: true
+02/02/2023 20:20:39 _ https://www.alura.com.br - online: true
+02/02/2023 20:20:47 _ https://random-status-code.herokuapp.com - online: false
+02/02/2023 20:20:49 _ https://www.caelum.com.br - online: true
+02/02/2023 20:20:50 _ https://www.casadocodigo.com.br - online: true
+02/02/2023 20:20:51 _ https://medium.com/gommunity/3-goschool-declara%C3%A7%C3%B5es-e-tipos-6952dcc9fc0f - online: true
+02/02/2023 20:20:56 _ https://www.alura.com.br - online: true
+02/02/2023 20:20:57 _ https://random-status-code.herokuapp.com - online: false
+02/02/2023 20:20:57 _ https://www.caelum.com.br - online: true
+02/02/2023 20:20:57 _ https://www.casadocodigo.com.br - online: true
+02/02/2023 20:20:58 _ https://medium.com/gommunity/3-goschool-declara%C3%A7%C3%B5es-e-tipos-6952dcc9fc0f - online: true
+02/02/2023 20:43:45 _ https://www.alura.com.br - online: true
+02/02/2023 20:43:46 _ https://random-status-code.herokuapp.com - online: false
+02/02/2023 20:43:57 _ https://www.caelum.com.br - online: true
+02/02/2023 20:43:57 _ https://www.casadocodigo.com.br - online: true
+02/02/2023 20:43:58 _ https://medium.com/gommunity/3-goschool-declara%C3%A7%C3%B5es-e-tipos-6952dcc9fc0f - online: true
+02/02/2023 20:44:04 _ https://www.alura.com.br - online: true
+02/02/2023 20:44:05 _ https://random-status-code.herokuapp.com - online: false
+02/02/2023 20:44:06 _ https://www.caelum.com.br - online: true
+02/02/2023 20:44:06 _ https://www.casadocodigo.com.br - online: true
+02/02/2023 20:44:07 _ https://medium.com/gommunity/3-goschool-declara%C3%A7%C3%B5es-e-tipos-6952dcc9fc0f - online: true
+02/02/2023 21:26:14 _ https://www.alura.com.br - online: true
+02/02/2023 21:26:16 _ https://random-status-code.herokuapp.com - online: false
+02/02/2023 21:26:17 _ https://www.caelum.com.br - online: true
+02/02/2023 21:26:17 _ https://www.casadocodigo.com.br - online: true
+02/02/2023 21:26:19 _ https://medium.com/gommunity/3-goschool-declara%C3%A7%C3%B5es-e-tipos-6952dcc9fc0f - online: true
+02/02/2023 21:26:24 _ https://www.alura.com.br - online: true
+02/02/2023 21:26:25 _ https://random-status-code.herokuapp.com - online: false
+02/02/2023 21:26:25 _ https://www.caelum.com.br - online: true
+02/02/2023 21:26:25 _ https://www.casadocodigo.com.br - online: true
+02/02/2023 21:26:26 _ https://medium.com/gommunity/3-goschool-declara%C3%A7%C3%B5es-e-tipos-6952dcc9fc0f - online: true
+02/02/2023 21:27:08 _ https://www.alura.com.br - online: true
+02/02/2023 21:27:09 _ https://random-status-code.herokuapp.com - online: false
+02/02/2023 21:27:10 _ https://www.caelum.com.br - online: true
+02/02/2023 21:27:10 _ https://www.casadocodigo.com.br - online: true
+02/02/2023 21:27:11 _ https://medium.com/gommunity/3-goschool-declara%C3%A7%C3%B5es-e-tipos-6952dcc9fc0f - online: true
+02/02/2023 21:27:16 _ https://www.alura.com.br - online: true
+02/02/2023 21:27:17 _ https://random-status-code.herokuapp.com - online: false
+02/02/2023 21:27:18 _ https://www.caelum.com.br - online: true
+02/02/2023 21:27:18 _ https://www.casadocodigo.com.br - online: true
+02/02/2023 21:27:19 _ https://medium.com/gommunity/3-goschool-declara%C3%A7%C3%B5es-e-tipos-6952dcc9fc0f - online: true
